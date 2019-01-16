@@ -39,3 +39,7 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 3. Access Point 1:
    1. WiFi SSID: ubiquiti_IIITD
    2. Password: iiitd@123
+   
+   
+# Experimental Setup   
+![](Screenshots/ab.jpg)  

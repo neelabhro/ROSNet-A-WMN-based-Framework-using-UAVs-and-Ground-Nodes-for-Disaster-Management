@@ -1,5 +1,5 @@
 # Multi-Hop-Communication-System-using-UAVs
-Aim is to develop a Multi Hop Communication using UAVs. The system would act as a delay tolerant network gathering messages from one location and delivering them to another. The Network is Ad-Hoc without the need for continuous communication between the UAVs.
+Establishing an efficient communication network is of paramount importance in natural disaster management. However, because of loss of cellular networks and other connectivity, relaying information from one place to another might not be possible. This paper proposes a prototype model to implement a UAV based Multi-hop communication system which would work seamlessly without the use of cellular network and the internet. A wireless Ad Hoc network is created, over which the transfer of files and messages takes place. The proposed model utilizes a mesh network to create a highly scalable and dynamic data routing model from source to destination. The prototype would have various practical applications, but our specific focus is to make a disaster relief solution. The system would act as a delay tolerant network gathering messages from one location and delivering them to another. The Network is Ad-Hoc without the need for continuous communication between the UAVs.
 
 
 ### User Interface:

@@ -32,7 +32,7 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
    2. Password: N1agaraPyram1
 
 2. 1. Raspberry Pi
-   2  user: dcs
+   2  user: DCS
    3. IP Address: 192.168.1.200
    4. Password: 12345678
 

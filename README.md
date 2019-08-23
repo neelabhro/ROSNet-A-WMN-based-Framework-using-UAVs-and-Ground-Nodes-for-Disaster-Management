@@ -41,6 +41,8 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
    2. Password: iiitd@123
    
    
-# Experimental Setup   
+# Pre Flight Setup   
 ![](Screenshots/Drone.png)  
+
+# Lab/Experimental Setup
 ![](Screenshots/ab.jpg)  

@@ -26,19 +26,6 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
    2. Change the IP Adress to the Master's (which is sending the files) IP address in this line: export ROS_MASTER_URI=http://192.168.1.202:11311
 4. To kill all the processes, type in **killall -9 rosmaster**
 
-# Login details for the WiFis and the RPis & Ubiquiti Domain details
-
-1. 1. User:Neel
-   2. Password: N1agaraPyram1
-
-2. 1. Raspberry Pi
-   2  user: DCS
-   3. IP Address: 192.168.1.200
-   4. Password: 12345678
-
-3. Access Point 1:
-   1. WiFi SSID: ubiquiti_IIITD
-   2. Password: iiitd@123
    
    
 # Pre Flight Setup   

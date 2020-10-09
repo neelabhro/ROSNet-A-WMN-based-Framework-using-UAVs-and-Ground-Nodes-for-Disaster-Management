@@ -46,3 +46,5 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 
 # Lab/Experimental Setup
 ![](Screenshots/ab.jpg)  
+
+The preprint can be found here.

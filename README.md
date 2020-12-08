@@ -36,3 +36,6 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 
 The preprint can be found here.
 https://www.techrxiv.org/articles/Multi_hop_Communication_cls_for_IEEE_Journals_pdf/10303394
+
+A link to the video demonstration using static ground nodes can be found here:
+https://youtu.be/MA1lv_i9EE8

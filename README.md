@@ -4,12 +4,13 @@
 
 ### Abstract: 
 
-#### Communication breakdowns during natural disasters can significantly restrict disaster management operations. Furthermore, cellular networks may also be unreliable in these scenarios. Hence, establishing communication using alternative means is of importance in these scenarios.  In this paper, we propose a prototype system to establish communication (using wireless mesh network - WMN) through the use of stationary and mobile ground nodes, and aerial nodes using unmanned aerial vehicles (UAVs). This network is ad hoc and establishes connectivity without the use of a cellular network or internet. Our system provides a complete end to end architecture, where we deploy an android application on smartphones at the user-end, the ad hoc network comprising of stationary and mobile nodes, and a graphical user interface (GUI) at the base station that shows situational awareness. We use the Robot Operating System (ROS) as the middleware for message synchronization and storage. We evaluate the system with three nodes for different system configurations by using UAV and a semi-autonomous car. Our experimental results show that the system could be indispensable in providing large scale connectivity.
+Communication breakdowns during natural disasters can significantly restrict disaster management operations. Furthermore, cellular networks may also be unreliable in these scenarios. Hence, establishing communication using alternative means is of importance in these scenarios.
+In this paper, we propose a prototype system to establish communication (using wireless mesh network - WMN) through the use of stationary and mobile ground nodes, and aerial nodes using unmanned aerial vehicles (UAVs). This network is ad hoc and establishes connectivity without the use of a cellular network or internet. Our system provides a complete end to end architecture, where we deploy an android application on smartphones at the user-end, the ad hoc network comprising of stationary and mobile nodes, and a graphical user interface (GUI) at the base station that shows situational awareness. We use the Robot Operating System (ROS) as the middleware for message synchronization and storage. We evaluate the system with three nodes for different system configurations by using UAV and a semi-autonomous car. Our experimental results show that the system could be indispensable in providing large scale connectivity.
 
-### Use case desription:
+### Use case description:
 ![](Screenshots/FIG1_NEW.png)
 
-#### Wireless mesh network with stationary and mobile ground nodes and aerial nodes. (a) Aerial node. (b) Mobile Ground node. (c) Stationary node. (d) Stationary node in an earthquake affected infrastructure. (e) Base station / Central server.
+Wireless mesh network with stationary and mobile ground nodes and aerial nodes. (a) Aerial node. (b) Mobile Ground node. (c) Stationary node. (d) Stationary node in an earthquake affected infrastructure. (e) Base station / Central server.
 
 ### Software Architecture and Communication Interfaces of the model:
 ![](Screenshots/arch.png)
@@ -52,5 +53,6 @@ https://www.techrxiv.org/articles/Multi_hop_Communication_cls_for_IEEE_Journals_
 ### Reference:
 [1] Roy, Neelabhro; Debarshi, Sauranil; Sujit, P.B. (2019): ROSNet: A WMN based Framework using UAVs and ground nodes for Post-Disaster Management. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.10303394.v3 
 
-A link to the video demonstration using static ground nodes can be found here:
-https://youtu.be/MA1lv_i9EE8
+#### A link to the video demonstration using static ground nodes can be found here: https://youtu.be/MA1lv_i9EE8
+#### A link to the video demonstration using aerial nodes can be found here: https://youtu.be/6mjy-1pgTQU
+

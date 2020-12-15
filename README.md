@@ -1,5 +1,11 @@
-# Multi-Hop-Communication-System-using-UAVs
-Establishing an efficient communication network is of paramount importance in natural disaster management. However, because of loss of cellular networks and other connectivity, relaying information from one place to another might not be possible. This paper proposes a prototype model to implement a UAV based Multi-hop communication system which would work seamlessly without the use of cellular network and the internet. A wireless Ad Hoc network is created, over which the transfer of files and messages takes place. The proposed model utilizes a mesh network to create a highly scalable and dynamic data routing model from source to destination. The prototype would have various practical applications, but our specific focus is to make a disaster relief solution. The system would act as a delay tolerant network gathering messages from one location and delivering them to another. The Network is Ad-Hoc without the need for continuous communication between the UAVs.
+# ROSNet: A Wireless Mesh Network based Framework using UAVs and ground nodes for Post-Disaster Management
+
+### Authors: Neelabhro Roy (KTH Royal Institute of Technology, Sweden), Sauranil Debarshi (IISc Bangalore, India) & Dr. PB Sujit (Associate Professor, IISER Bhopal, India)
+
+### Abstract: 
+
+Communication breakdowns during natural disasters can significantly restrict disaster management operations. Furthermore, cellular networks may also be unreliable in these scenarios. Hence, establishing communication using alternative means is of importance in these scenarios.  
+In this paper, we propose a prototype system to establish communication (using wireless mesh network - WMN) through the use of stationary and mobile ground nodes, and aerial nodes using unmanned aerial vehicles (UAVs). This network is ad hoc and establishes connectivity without the use of a cellular network or internet. Our system provides a complete end to end architecture, where we deploy an android application on smartphones at the user-end, the ad hoc network comprising of stationary and mobile nodes, and a graphical user interface (GUI) at the base station that shows situational awareness. We use the Robot Operating System (ROS) as the middleware for message synchronization and storage. We evaluate the system with three nodes for different system configurations by using UAV and a semi-autonomous car. Our experimental results show that the system could be indispensable in providing large scale connectivity.
 
 
 ### User Interface:
@@ -36,6 +42,9 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 
 The preprint can be found here.
 https://www.techrxiv.org/articles/Multi_hop_Communication_cls_for_IEEE_Journals_pdf/10303394
+
+### Reference:
+[1] Roy, Neelabhro; Debarshi, Sauranil; Sujit, P.B. (2019): ROSNet: A WMN based Framework using UAVs and ground nodes for Post-Disaster Management. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.10303394.v3 
 
 A link to the video demonstration using static ground nodes can be found here:
 https://youtu.be/MA1lv_i9EE8

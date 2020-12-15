@@ -7,9 +7,14 @@
 Communication breakdowns during natural disasters can significantly restrict disaster management operations. Furthermore, cellular networks may also be unreliable in these scenarios. Hence, establishing communication using alternative means is of importance in these scenarios.  
 In this paper, we propose a prototype system to establish communication (using wireless mesh network - WMN) through the use of stationary and mobile ground nodes, and aerial nodes using unmanned aerial vehicles (UAVs). This network is ad hoc and establishes connectivity without the use of a cellular network or internet. Our system provides a complete end to end architecture, where we deploy an android application on smartphones at the user-end, the ad hoc network comprising of stationary and mobile nodes, and a graphical user interface (GUI) at the base station that shows situational awareness. We use the Robot Operating System (ROS) as the middleware for message synchronization and storage. We evaluate the system with three nodes for different system configurations by using UAV and a semi-autonomous car. Our experimental results show that the system could be indispensable in providing large scale connectivity.
 
+### Use case desription:
+![](Screenshots/FIG1_NEW.png)
 
-### User Interface:
-![](Screenshots/Unifi1.png)
+### Software Architecture and Communication Interfaces of the model:
+![](Screenshots/arch.png)
+
+### Data synchronization between various nodes:
+![](Screenshots/circle.png)
 
 # Instructions for installing ROS:
 Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following the instructions provided here: https://bit.ly/2Kp5JMR
@@ -31,8 +36,6 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
    1. Change the IP Adress to your own system's IP address in this line: export ROS_IP=192.168.1.200
    2. Change the IP Adress to the Master's (which is sending the files) IP address in this line: export ROS_MASTER_URI=http://192.168.1.202:11311
 4. To kill all the processes, type in **killall -9 rosmaster**
-
-   
    
 # Pre Flight Setup   
 ![](Screenshots/Drone.png)  

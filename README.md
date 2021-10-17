@@ -51,7 +51,8 @@ The preprint can be found here.
 https://www.techrxiv.org/articles/Multi_hop_Communication_cls_for_IEEE_Journals_pdf/10303394
 
 ### Reference:
-[1] Roy, Neelabhro; Debarshi, Sauranil; Sujit, P.B. (2019): ROSNet: A WMN based Framework using UAVs and ground nodes for Post-Disaster Management. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.10303394.v3 
+[1] Roy, Neelabhro; Debarshi, Sauranil; Sujit, P.B. (2019): ROSNet: A WMN based Framework using UAVs and ground nodes for Post-Disaster Management. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.10303394.v3
+Accepted for Publication at the IEEE Humanitarian Technology Conference 2021
 
 #### A link to the video demonstration using static ground nodes can be found here: https://youtu.be/MA1lv_i9EE8
 #### A link to the video demonstration using aerial nodes can be found here: https://youtu.be/6mjy-1pgTQU

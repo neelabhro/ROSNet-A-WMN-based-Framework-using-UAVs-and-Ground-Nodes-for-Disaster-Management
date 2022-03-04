@@ -47,14 +47,12 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 # Lab/Experimental Setup
 ![](Screenshots/ab.jpg)  
 
-The preprint can be found here.
-https://www.techrxiv.org/articles/Multi_hop_Communication_cls_for_IEEE_Journals_pdf/10303394
+# Link to the paper:
+https://ieeexplore.ieee.org/document/9641658
 
 ### Reference:
-[1] Roy, Neelabhro; Debarshi, Sauranil; Sujit, P.B. (2019): ROSNet: A WMN based Framework using UAVs and ground nodes for Post-Disaster Management. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.10303394.v3
-
-### Accepted for Publication at the IEEE Humanitarian Technology Conference 2021 (IEEE HTC 2021)
-### Awarded the "Best Overall Paper Award"
+[1] N. Roy, S. Debarshi and P. B. Sujit, "ROSNet: A WMN based Framework using UAVs and Ground Nodes for Post-Disaster Management," 2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC), 2021, pp. 1-6, doi: 10.1109/R10-HTC53172.2021.9641658
+### Awarded the "Best Overall Paper Award" at the IEEE HTC 2021
 
 #### A link to the video demonstration using static ground nodes can be found here: https://youtu.be/MA1lv_i9EE8
 #### A link to the video demonstration using aerial nodes can be found here: https://youtu.be/6mjy-1pgTQU

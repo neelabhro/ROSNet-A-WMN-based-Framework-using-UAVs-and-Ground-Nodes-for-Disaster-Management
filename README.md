@@ -2,6 +2,35 @@
 
 ### Authors: Neelabhro Roy (KTH Royal Institute of Technology, Sweden), Sauranil Debarshi (IISc Bangalore, India) & Dr. PB Sujit (Associate Professor, IISER Bhopal, India)
 
+
+Cite us:
+
+- Plain text:
+
+    ```text
+    N. Roy, S. Debarshi and P. B. Sujit, "ROSNet: A WMN based Framework using UAVs and Ground Nodes for Post-Disaster Management," 2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC), 2021, pp. 1-6, doi: 10.1109/R10-HTC53172.2021.9641658.
+    ```
+
+- BibLatex/BibTex:
+
+    ```bibtex
+   @INPROCEEDINGS{Roy:ROSNET,
+  author={Roy, Neelabhro and Debarshi, Sauranil and Sujit, P.B.},
+  booktitle={2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)}, 
+  title={ROSNet: A WMN based Framework using UAVs and Ground Nodes for Post-Disaster Management}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/R10-HTC53172.2021.9641658}}
+  
+  ```
+
+# Link to the paper:
+https://ieeexplore.ieee.org/document/9641658
+
+### Awarded the "Best Overall Paper Award" at the IEEE HTC 2021
+
 ### Abstract: 
 
 Communication breakdowns during natural disasters can significantly restrict disaster management operations. Furthermore, cellular networks may also be unreliable in these scenarios. Hence, establishing communication using alternative means is of importance in these scenarios.
@@ -47,12 +76,6 @@ Install either ROS Kinetic / ROS Indigo, preferrably ROS Kinetic by following th
 # Lab/Experimental Setup
 ![](Screenshots/ab.jpg)  
 
-# Link to the paper:
-https://ieeexplore.ieee.org/document/9641658
-
-### Reference:
-[1] N. Roy, S. Debarshi and P. B. Sujit, "ROSNet: A WMN based Framework using UAVs and Ground Nodes for Post-Disaster Management," 2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC), 2021, pp. 1-6, doi: 10.1109/R10-HTC53172.2021.9641658
-### Awarded the "Best Overall Paper Award" at the IEEE HTC 2021
 
 #### A link to the video demonstration using static ground nodes can be found here: https://youtu.be/MA1lv_i9EE8
 #### A link to the video demonstration using aerial nodes can be found here: https://youtu.be/6mjy-1pgTQU
